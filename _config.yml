@@ -1,0 +1,8 @@
+title: Github-changelog-generator
+description: Automatically generate changelog from your tags, closed issues and merged pull requests.
+google_analytics: UA-52127948-2
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
